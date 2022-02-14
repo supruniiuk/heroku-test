@@ -12,5 +12,5 @@ branches:
 
 deploy:
   provider: heroku
-  app: Herokutest
+  app: herokutestjulia
   api_key: "a61a06d5-b443-4790-98e3-2a540d58397e"
